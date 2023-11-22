@@ -1,0 +1,10 @@
+loan_type,country,avg_rate
+car,CA,0.112
+car,UK,0.123
+car,USA,0.104
+mortgage,CA,0.044
+mortgage,UK,0.042
+mortgage,USA,0.044
+personal,CA,0.217
+personal,UK,0.199
+personal,USA,0.203
